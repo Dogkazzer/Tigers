@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "TigerConnectionString": "server=(localdb)\\ProjectsV13;Database=TigerDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  }
+}
