@@ -35,7 +35,7 @@ namespace Tigers
                 user = new StoreUser()
                 {
                     FristName = "Hil",
-                    LastName = "Wain",
+                    LastName = "W",
                     Email = "hil@tigers.com",
                     UserName = "hil@tigers.com"
                 };
